@@ -13,7 +13,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://https://te.legra.ph/file/5118220b143ef36a7f581.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://te.legra.ph/file/5118220b143ef36a7f581.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP SK SPAM BOT, That is the greatest pleasure we have !
