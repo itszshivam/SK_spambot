@@ -1,15 +1,15 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**itszshivam/itszshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**​🇸pyXditto/​🇸pyXditto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/​🇸pyXditto/count.svg" />
 </p>
 
-<h1 align="center"><b>😈 🔥SHIVAM 𝙓 SPAM 🔥💫 😈</b></h1>
+<h1 align="center"><b>​🇸pyXditto</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
@@ -19,9 +19,6 @@
 > ⭐️ Thanks to everyone for using THIS OP SK SPAM BOT, That is the greatest pleasure we have !
 
 <br>
-
-- ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
-
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
