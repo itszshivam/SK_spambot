@@ -17,7 +17,7 @@ from telethon import events
 @MK8.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK9.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-async def ping(e):
+async def ping(e):​🇸PY X DITTO
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
         altron = await e.reply(f"» #​🇸​​🇭​​🇮​​🇻​​🇦​​🇲​_ᴏᴘ_ʙᴏʟᴛᴀ", parse_mode=None, link_preview=None)
