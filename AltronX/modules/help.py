@@ -2,7 +2,7 @@ from config import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USERS
 from telethon import events, Button
 
 
-PythonHelp = f"★ ​𝗢𝗣𝘀𝗽𝗮𝗺 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @itsz_shivam**"
+PythonHelp = f"★ ​🇸𝘱𝘺 乂 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @@Ditto_000**"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -18,7 +18,7 @@ PythonHelp = f"★ ​𝗢𝗣𝘀𝗽𝗮𝗺 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪
 async def help(event):
     if event.sender_id in SUDO_USERS:
        await event.client.send_file(event.chat_id,
-                                  " https://telegra.ph/file/0de98f5fe87df8e6b514d.jpg",
+                                  " ,https://te.legra.ph/file/600e860f9a2c906b27f94.jpg
                                   caption=PythonHelp,
                                   buttons=[
            [
@@ -54,7 +54,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @itsz_shivam**
+**©@Ditto_000**
 """
 
                  
@@ -86,7 +86,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @itsz_shivam**
+**© @Ditto_000 **
 """
 
 spam_msg = f"""
@@ -103,7 +103,7 @@ spam_msg = f"""
   1) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
 
-** © @itsz_shivam**
+** © @Ditto_000**
 """                     
            
            
@@ -115,7 +115,7 @@ spam_msg = f"""
 @MK6.on(events.CallbackQuery(pattern=r"help_back"))
 @MK7.on(events.CallbackQuery(pattern=r"help_back"))
 @MK8.on(events.CallbackQuery(pattern=r"help_back"))
-@MK9.on(events.CallbackQuery(pattern=r"help_back"))
+@MK9.on(events.CallbackQuery(pattern=r"help@Ditto_000
 @MK10.on(events.CallbackQuery(pattern=r"help_back"))
 async def helpback(event):
    if event.query.user_id in SUDO_USERS:    
@@ -130,13 +130,13 @@ async def helpback(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/about_skshivam"),
-            Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/fun_here")
+            Button.url("• ᴄʜᴀɴɴᴇʟ •", "@Ditto_000"),
+            Button.url("• sᴜᴘᴘᴏʀᴛ •", "@Ditto_000")
            ],
            ],
         )           
    else:
-        await event.answer("Make Your Own OP Bots !! @itsz_shivam", cache_time=0, alert=True)
+        await event.answer("Make Your Own OP Bots !! @Ditto_000", cache_time=0, alert=True)
 
 
 @MK1.on(events.CallbackQuery(pattern=r"spam"))
@@ -144,7 +144,7 @@ async def helpback(event):
 @MK3.on(events.CallbackQuery(pattern=r"spam"))
 @MK4.on(events.CallbackQuery(pattern=r"spam"))
 @MK5.on(events.CallbackQuery(pattern=r"spam"))
-@MK6.on(events.CallbackQuery(pattern=r"spam"))
+@Mn(events.CallbackQuery(pattern=r"spam"))
 @MK7.on(events.CallbackQuery(pattern=r"spam"))
 @MK8.on(events.CallbackQuery(pattern=r"spam"))
 @MK9.on(events.CallbackQuery(pattern=r"spam"))
@@ -155,7 +155,7 @@ async def help_spam(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             ) 
    else:
-        await event.answer("Make Your Own OP Bots !! @itsz_shivam", cache_time=0, alert=True)
+        await event.answer("khudke bana le  !!@Ditto_000 ", cache_time=0, alert=True)
 
 
 @MK1.on(events.CallbackQuery(pattern=r"raid"))
@@ -174,7 +174,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )  
      else:
-        await event.answer("Make Your Own OP bots !! @itsz_shivam", cache_time=0, alert=True)
+        await event.answer("khudke bana le !! @Ditto_000", cache_time=0, alert=True)
 
 
 @MK1.on(events.CallbackQuery(pattern=r"extra"))
@@ -193,4 +193,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
    else:
-        await event.answer("Make Your Own OP Bots !! @itsz_shivam", cache_time=0, alert=True)
+        await event.answer("Make Your Own OP Bots !! @Ditto_000", cache_time=0, alert=True)

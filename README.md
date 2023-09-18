@@ -1,27 +1,24 @@
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 👾yo visitors👾
 
 <!--
-**itszshivam/itszshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**​🇸pyXditto/​🇸pyXditto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/​🇸pyXditto/count.svg" />
 </p>
 
-<h1 align="center"><b>😈 🔥SHIVAM 𝙓 SPAM 🔥💫 😈</b></h1>
+<h1 align="center"><b>​🇸pyXditto</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://telegra.ph/file/0de98f5fe87df8e6b514d.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://te.legra.ph/file/5118220b143ef36a7f581.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP SK SPAM BOT, That is the greatest pleasure we have !
 
 <br>
-
-- ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
-
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
@@ -51,4 +48,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/fun_here"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/+F7jvN3VtNFFhMDg1"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
